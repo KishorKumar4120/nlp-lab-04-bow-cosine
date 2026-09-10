@@ -16,7 +16,7 @@ Implementation of Bag of Words (BoW) and Cosine Similarity to represent textual 
 
 **Output Screenshot:**
 <!-- Replace the link below with the actual path to your screenshot -->
-![Task 1 Output](task-01.png)
+![Task 1 Output](task-1.png)
 
 ---
 
@@ -25,7 +25,7 @@ Implementation of Bag of Words (BoW) and Cosine Similarity to represent textual 
 
 **Output Screenshot:**
 <!-- Replace the link below with the actual path to your screenshot -->
-![Task 2 Output](task-02.png)
+![Task 2 Output](task-2.png)
 
 ---
 
